@@ -16,4 +16,3 @@ For this project I downloaded a sample dataset of a bike manufacturer operating 
 * I built a data model within Power BI
 * Finally, I ended up with a useful dashboard.
 
-![](/images/Dashboard_Overview.JPG)
