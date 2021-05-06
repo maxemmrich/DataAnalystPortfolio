@@ -14,6 +14,6 @@ For this project I downloaded a sample dataset of a bike manufacturer operating 
 * Based on that, I performed some simple queries out of SQL Server to use the data within Power BI
 * I added an Excel File with some made up budgets for sales to enrich the data from the dataset
 * I built a data model within Power BI
-* Finally, I ended up with a useful dashboard 
+* Finally, I ended up with a useful dashboard.
 
 ![](/images/Dashboard_Overview.JPG)
