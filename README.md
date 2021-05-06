@@ -1,18 +1,19 @@
 # Data Analyst Portfolio | Max Emmrich
 Example data science portfolio
 
-# [Project 1: Power BI - Dashboard]( https://maxemmrich.github.io/Churn_Prediction/) 
-For this example project I built a ball classifier to identify balls from different sports. This could be useful for someone who is new to sports from a certain country. They could take a picture of a ball and an app could serve them some information about the history and rules of the game. This is the underlying model for building something with those capabilities. 
+# [Project 1: Churn Prediction for a telecomunication company using scikit-learn]( https://maxemmrich.github.io/Churn_Prediction/) 
+For this example project I built a churn classifier to identify churning customers for a telecomunication company. This project was part of an assignemnt I did within my masters degree. The data was provided. 
 
-I was able to get the model to predict the sport of the ball with 94% accuracy after minimal tuning. For most of the cases this would meet the need of an end user of the app. To get these results I used transfer learning on a CNN trained on resnet34. This created time efficiencies and solid results. 
+I was able to get the model to predict churning customers with a recall of 82% and an accuracy of 75%. Based on given business assumptions my focus was on maximizing recall, but still getting a reasonably high precision. Therefore the F1 score was a leading indicator to choose the model for my final classifier. The classifier can be used an efficient marketing tool within different retention strategies. It offers both, an absolute churn prediction, as well as a churn ranking to use for more detailed actions.
 
 ![](/images/matrix_results.png)
 
-# [Project 2: Churn prediction for telecommunication company](https://github.com/maxemmrich/) 
-* Created a tool that estimates data science salaries (MAE ~ $ 11K) to help data scientists negotiate their income when they get a job.
-* Scraped over 1000 job descriptions from glassdoor using python and selenium
-* Engineered features from the text of each job description to quantify the value companies put on python, excel, aws, and spark. 
-* Optimized Linear, Lasso, and Random Forest Regressors using GridsearchCV to reach the best model. 
-* Built a client facing API using flask 
+# [Project 2: PowerBI Dashboard querying from SQL Server](https://maxemmrich.github.io/PowerBI_Dashboard/) 
+For this project I downloaded a sample dataset of a bike manufacturer operating world wide. My goal was to create a useful dashboard for top management, allowing them to have a broad overview of international sales and business development. However, they should also be able to drilldown and -through into more specific aspects such as regional performances and customer views. 
+* I started with formulating some user stories to set the goal and requirement of the project
+* Based on that, I performed some simple queries out of SQL Server to use the data within Power BI
+* I added an Excel File with some made up budgets for sales to enrich the data from the dataset
+* I built a data model within Power BI
+* Finally, I ended up with a useful dashboard 
 
 ![](/images/positions_by_state.png)
