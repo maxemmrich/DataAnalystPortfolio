@@ -2,7 +2,7 @@
 Example data science portfolio
 
 ## [Project 1: Churn prediction for a telecomunication company using scikit-learn]( https://github.com/maxemmrich/Churn_Prediction/blob/main/2021-02-02_Customer_Churn_Code_final.ipynb) 
-For this example project I built a churn classifier to identify churning customers for a telecomunication company. This project was part of an assignemnt I did within my masters degree. The data was provided. 
+For this example project I built a churn classifier to identify churning customers for a telecomunication company. This project was part of an assignment I did within my masters degree. The data was provided. 
 
 I was able to get the model to predict churning customers with a recall of 82% and an accuracy of 75%. Based on given business assumptions my focus was on maximizing recall, but still getting a reasonably high precision. Therefore the F1 score was a leading indicator to choose the model for my final classifier. The classifier can be used an efficient marketing tool within different retention strategies. It offers both, an absolute churn prediction, as well as a churn ranking to use for more detailed actions.
 
