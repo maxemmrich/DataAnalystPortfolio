@@ -19,7 +19,7 @@ For this project I downloaded a sample dataset of a bike manufacturer operating 
 
 ![](/images/DashboardOverview.JPG)
 
-
+<br>
 
 ## [Project 3: Advanced SQL on E-Commerce data using MySQL](https://github.com/maxemmrich/AdvancedSQL_E-Commerce) 
 The analysis within this little project has been done using a sample database of an e-commerce shop. MySQL was used as a database system. My approach was to come up with some interesting business questions very close to real world applications and show a range of my SQL skills. I choose e-commerce data, because I have been working in the field for a while and therfore I had both, interest in the topic and knowledge of what is important.
