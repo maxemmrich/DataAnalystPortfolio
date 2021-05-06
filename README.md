@@ -16,6 +16,4 @@ For this project I downloaded a sample dataset of a bike manufacturer operating 
 * I built a data model within Power BI
 * Finally, I ended up with a useful dashboard 
 
-<img src="https://github.com/maxemmrich/DataAnalystPortfolio/blob/main/images/Dashboard_Overview.JPG" alt="alt text" width=500">
-
-![](/images/Dashboard_Overview.JPG | width=400)
+![](/images/Dashboard_Overview.JPG)
