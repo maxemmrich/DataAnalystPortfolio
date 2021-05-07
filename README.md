@@ -9,6 +9,7 @@ I was able to get the model to predict churning customers with a recall of 82% a
 <br>
 
 
+
 ## [Project 2: PowerBI dashboard querying from SQL Server](https://maxemmrich.github.io/PowerBI_Dashboard/) 
 For this project I downloaded a sample dataset of a bike manufacturer operating world wide. My goal was to create a useful dashboard for top management, allowing them to have a broad overview of international sales and business development. However, they should also be able to drilldown and -through into more specific aspects such as regional performances and customer views. 
 * I started with formulating some user stories to set the goal and requirement of the project
